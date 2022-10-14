@@ -30,8 +30,11 @@
   .body_content {
     background-image: none;
     background-color: #fff;
+  }
+
+  .box {
     padding: 0;
-    margin-right: 12px;
-    margin-left: 12px;
+    margin-right: 0;
+    margin-left: 0;
 }
 }
