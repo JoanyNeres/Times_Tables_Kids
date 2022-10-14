@@ -26,9 +26,12 @@
   position: relative;
 }
 
-@media (max-width: 800px){
+@media (max-width: 600px){
   .body_content {
     background-image: none;
     background-color: #fff;
+    padding: 0;
+    margin-right: 12px;
+    margin-left: 12px;
 }
 }
