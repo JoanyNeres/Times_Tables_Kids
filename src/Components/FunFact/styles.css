@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.funFact_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 32px 150px 0 150px;
+    background-image: url("https://cdn.discordapp.com/attachments/1016745958727491615/1028447039463358475/frame_funfacts_gif.gif") ;
+    background-position: relative;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+
+.funFact_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 42px;
+    margin-left: 120px;
+    margin-right: 120px;
+    font-size: 16px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.funFact_sentence {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align:justify;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    color: #4db6bb;
+}
+
+.button_restart {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#4db6bb;
+    border: none;
+    color: #ffff;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+@media (max-width: 800px){
+    .funFact_box{
+        background-image: none;
+    }
+}
+
+@media (max-width: 800px){
+
+    .funFact_box{
+        margin: 0;
+    }
+
+    .funFact_content {
+        font-size: 14px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .funFact_sentence {
+        font-size: 16px;
+    }
+
+}
