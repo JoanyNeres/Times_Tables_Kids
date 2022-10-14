@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Times_Tables_Kids/static/css/main.95277ccb.css",
+    "main.css": "/Times_Tables_Kids/static/css/main.b6800e8e.css",
     "main.js": "/Times_Tables_Kids/static/js/main.511f01de.js",
     "static/js/787.a0df733a.chunk.js": "/Times_Tables_Kids/static/js/787.a0df733a.chunk.js",
     "index.html": "/Times_Tables_Kids/index.html",
-    "main.95277ccb.css.map": "/Times_Tables_Kids/static/css/main.95277ccb.css.map",
+    "main.b6800e8e.css.map": "/Times_Tables_Kids/static/css/main.b6800e8e.css.map",
     "main.511f01de.js.map": "/Times_Tables_Kids/static/js/main.511f01de.js.map",
     "787.a0df733a.chunk.js.map": "/Times_Tables_Kids/static/js/787.a0df733a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95277ccb.css",
+    "static/css/main.b6800e8e.css",
     "static/js/main.511f01de.js"
   ]
 }
