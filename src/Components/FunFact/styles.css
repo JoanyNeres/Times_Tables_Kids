@@ -55,15 +55,11 @@
     cursor: pointer;
 }
 
-@media (max-width: 800px){
+
+@media screen and (max-width: 600px){
+
     .funFact_box{
         background-image: none;
-    }
-}
-
-@media (max-width: 800px){
-
-    .funFact_box{
         margin: 0;
     }
 
