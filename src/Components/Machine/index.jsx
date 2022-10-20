@@ -26,7 +26,7 @@ export function Machine(props){
     return(
         <>
         <div className="machine">
-                <img className="machine_gif" src="https://cdn.discordapp.com/attachments/1016745958727491615/1018194255216377856/mult_machine_gif.gif"
+                <img className="machine_gif" src="https://cdn.discordapp.com/attachments/1016745958727491615/1032814284503253082/mult_machine_gif.gif"
                 alt="Multiplication Machine Animation"/>
                 <div className="ejector_machine">
                     <buttom className="button_pressme" onClick={generateOperation}>
