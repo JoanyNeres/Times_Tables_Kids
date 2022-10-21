@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Times_Tables_Kids/static/css/main.b6800e8e.css",
-    "main.js": "/Times_Tables_Kids/static/js/main.511f01de.js",
+    "main.css": "/Times_Tables_Kids/static/css/main.8d2602de.css",
+    "main.js": "/Times_Tables_Kids/static/js/main.59391d69.js",
     "static/js/787.a0df733a.chunk.js": "/Times_Tables_Kids/static/js/787.a0df733a.chunk.js",
     "index.html": "/Times_Tables_Kids/index.html",
-    "main.b6800e8e.css.map": "/Times_Tables_Kids/static/css/main.b6800e8e.css.map",
-    "main.511f01de.js.map": "/Times_Tables_Kids/static/js/main.511f01de.js.map",
+    "main.8d2602de.css.map": "/Times_Tables_Kids/static/css/main.8d2602de.css.map",
+    "main.59391d69.js.map": "/Times_Tables_Kids/static/js/main.59391d69.js.map",
     "787.a0df733a.chunk.js.map": "/Times_Tables_Kids/static/js/787.a0df733a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6800e8e.css",
-    "static/js/main.511f01de.js"
+    "static/css/main.8d2602de.css",
+    "static/js/main.59391d69.js"
   ]
 }
