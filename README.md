@@ -7,7 +7,7 @@ First, the user needs to press the button.
 Then, a random multiplication operation with factors from 1 to 10 will appear below the machine.
 The user will type the answer. If the result is incorrect, the phrase "Try again!" will be displayed.
 
-<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1028711381043773592/2.png" />
+<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1032817688994660382/2.png" />
 
 If the answer is correct, the text will change to "Well done!". The user will be able to choose one of the six emoji options.
 
