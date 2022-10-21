@@ -2,7 +2,7 @@ The page is an interactive times tables quiz for kids to practice multiplication
 
 First, the user needs to press the button.
 
-<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1028711358050603058/1.png" />
+<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1032816676493852712/1.png" />
 
 Then, a random multiplication operation with factors from 1 to 10 will appear below the machine.
 The user will type the answer. If the result is incorrect, the phrase "Try again!" will be displayed.
